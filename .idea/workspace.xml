@@ -5,33 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c84ab228-8908-422b-bc0a-a327a5aacc0b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../Event_Rabbiter_User_Service/Dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/recallJavA.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/BracketPairs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/LongestCommonPrefix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/Palindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/Pillow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/RomanToInteger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/functionalInterface/AdvancedConsumerExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/functionalInterface/FunctionExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/functionalInterface/PredicateExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/functionalInterface/SupplierExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/multiThreading/deadLock/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/multiThreading/deadLock/SharedResource.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/multiThreading/monitor/MonitorLockExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/multiThreading/monitor/MonitorLockMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/multiThreading/prodectThread/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/multiThreading/prodectThread/ProducerTask.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/multiThreading/prodectThread/SharedResource.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Event_Rabbiter_User_Service/src/main/java/com/Event_Rabbiter_User_Service/Event_Rabbiter_User_Service/configFeign/EventCreateFeign.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Event_Rabbiter_User_Service/src/main/java/com/Event_Rabbiter_User_Service/Event_Rabbiter_User_Service/configFeign/EventCreateFeign.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Event_Rabbiter_User_Service/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../Event_Rabbiter_User_Service/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.env" beforeDir="false" afterPath="$PROJECT_DIR$/.env" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,6 +42,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "D:/recallJavA",
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
