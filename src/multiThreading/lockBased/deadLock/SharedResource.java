@@ -1,4 +1,4 @@
-package multiThreading.deadLock;
+package multiThreading.lockBased.deadLock;
 
 public class SharedResource {
 

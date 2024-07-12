@@ -1,4 +1,4 @@
-package multiThreading.prodectThread;
+package multiThreading.lockBased.prodectThread;
 
 
 public class ProducerTask implements Runnable {

@@ -1,6 +1,4 @@
-package multiThreading.deadLock;
-
-import javax.swing.plaf.TableHeaderUI;
+package multiThreading.lockBased.deadLock;
 
 public class Main {
     public static void main(String[] args) {

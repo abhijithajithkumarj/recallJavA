@@ -1,6 +1,4 @@
-package multiThreading.monitor;
-
-import multiThreading.monitor.MonitorLockExample;
+package multiThreading.lockBased.monitor;
 
 public class MonitorLockMain {
 
