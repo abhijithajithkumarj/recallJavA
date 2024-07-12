@@ -34,6 +34,7 @@ class CustomThreadFactory implements  ThreadFactory{
        Thread th=new Thread(r);
        th.setPriority(Thread.NORM_PRIORITY);
        th.setDaemon(false);
+
        return th;
     }
 }
