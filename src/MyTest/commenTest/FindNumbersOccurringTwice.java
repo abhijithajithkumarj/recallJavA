@@ -1,4 +1,4 @@
-package MyTest;
+package MyTest.commenTest;
 
 import java.awt.*;
 import java.util.ArrayList;

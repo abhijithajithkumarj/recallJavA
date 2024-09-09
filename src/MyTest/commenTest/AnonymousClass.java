@@ -1,4 +1,4 @@
-package MyTest;
+package MyTest.commenTest;
 
 public class AnonymousClass {
     public static void main(String[] args) {

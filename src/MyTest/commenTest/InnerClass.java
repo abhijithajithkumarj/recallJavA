@@ -1,6 +1,4 @@
-package MyTest;
-
-import javax.swing.text.html.HTMLDocument;
+package MyTest.commenTest;
 
 public class InnerClass {
 

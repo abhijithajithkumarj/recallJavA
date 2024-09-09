@@ -1,4 +1,4 @@
-package MyTest;
+package MyTest.commenTest;
 
 import java.util.HashSet;
 import java.util.Set;

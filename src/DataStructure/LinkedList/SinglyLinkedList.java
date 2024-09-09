@@ -1,6 +1,4 @@
-package DataStructure;
-
-import java.util.List;
+package DataStructure.LinkedList;
 
 public class SinglyLinkedList {
 
@@ -153,6 +151,7 @@ public class SinglyLinkedList {
             slowPointer=slowPointer.nextNode;
             if (fasterPoint==slowPointer) {
                 System.out.println(getStartingNode(slowPointer).data);
+                removeLoop(slowPointer);
                 return true;
             }
         }
@@ -167,6 +166,18 @@ public class SinglyLinkedList {
             slowerNode=slowerNode.nextNode;
         }
         return temp;
+    }
+
+    public void removeLoop(ListNode slowPointer){
+
+        ListNode temp=head;
+        while (slowPointer.nextNode!=temp.nextNode){
+            temp=temp.nextNode;
+            slowPointer=slowPointer.nextNode;
+
+        }
+        slowPointer.nextNode=null;
+
     }
 
 
@@ -200,6 +211,10 @@ public class SinglyLinkedList {
         System.out.println("Checking for loop in the linked list:");
         boolean hasLoop = sll.detectLoop();
         System.out.println("Does the linked list have a loop? " + hasLoop);
+        System.out.println(sll.detectLoop());
+
+
+
     }
 
 

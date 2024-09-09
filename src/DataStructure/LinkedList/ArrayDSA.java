@@ -1,6 +1,5 @@
-package DataStructure;
+package DataStructure.LinkedList;
 
-import java.lang.reflect.Type;
 import java.util.Arrays;
 
 public class ArrayDSA {

@@ -1,4 +1,4 @@
-package MyTest;
+package MyTest.commenTest;
 
  class GenericClass<T> {
 
