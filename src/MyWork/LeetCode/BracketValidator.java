@@ -1,7 +1,6 @@
-package LeetCode;
+package MyWork.LeetCode;
 
 import java.util.*;
-import java.util.stream.IntStream;
 
 public class BracketValidator {
     public static boolean isValid(String s) {

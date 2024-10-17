@@ -1,4 +1,4 @@
-package LeetCode;
+package MyWork.LeetCode;
 import java.util.stream.IntStream;
 
 
