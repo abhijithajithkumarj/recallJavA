@@ -5,24 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c84ab228-8908-422b-bc0a-a327a5aacc0b" name="Changes" comment="add more thread code">
-      <change afterPath="$PROJECT_DIR$/src/MyWork/CollectionPluseStram/TwoSome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MyWork/LeetCode/IsomorphicString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MyWork/LeetCode/LargeDigits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MyWork/LeetCode/PrefixSearchWord.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MyWork/LeetCode/TwoSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/streameApi/colletors/Collectors.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/streameApi/internidiatOperation/Distinct.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/streameApi/internidiatOperation/Filter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/streameApi/internidiatOperation/FlatMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/streameApi/internidiatOperation/Map.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/streameApi/terminalOperation/TerminalOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MyWork/CollectionPluseStram/RomanInteger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MyWork/LeetCode/RomanInteger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PatternUseStream/HollowDiamondPattern.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LeetCode/BracketValidator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MyWork/LeetCode/BracketValidator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LeetCode/LongestCommonPrefix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MyWork/LeetCode/LongestCommonPrefix.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LeetCode/Palindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MyWork/LeetCode/Palindrome.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LeetCode/Pillow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MyWork/LeetCode/Pillow.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LeetCode/RomanToInteger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MyWork/LeetCode/RomanToInteger.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/singleton/DBConnections.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/singleton/DBConnections.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MyWork/LeetCode/LongestCommonPrefix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MyWork/LeetCode/LongestCommonPrefix.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,9 +53,16 @@
       <recent name="DataStructure.Recursion" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TowSome">
-    <configuration name="LargeDigits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MyWork.LeetCode.LargeDigits" />
+  <component name="RunManager" selected="Application.LongestCommonPrefix">
+    <configuration name="HollowDiamondPattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HollowDiamondPattern" />
+      <module name="recallJavA" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LongestCommonPrefix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MyWork.LeetCode.LongestCommonPrefix" />
       <module name="recallJavA" />
       <extension name="coverage">
         <pattern>
@@ -80,15 +74,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Merge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Merge" />
+    <configuration name="MyWork.CollectionPluseStram.RomanInteger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MyWork.CollectionPluseStram.RomanInteger" />
       <module name="recallJavA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="MyWork.CollectionPluseStram.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrefixSearchWord" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MyWork.LeetCode.PrefixSearchWord" />
+    <configuration name="RomanInteger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MyWork.LeetCode.RomanInteger" />
       <module name="recallJavA" />
       <extension name="coverage">
         <pattern>
@@ -113,26 +113,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TwoSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MyWork.LeetCode.TwoSum" />
-      <module name="recallJavA" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="MyWork.LeetCode.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LongestCommonPrefix" />
+        <item itemvalue="Application.HollowDiamondPattern" />
+        <item itemvalue="Application.MyWork.CollectionPluseStram.RomanInteger" />
+        <item itemvalue="Application.RomanInteger" />
         <item itemvalue="Application.TowSome" />
-        <item itemvalue="Application.TwoSum" />
-        <item itemvalue="Application.Merge" />
-        <item itemvalue="Application.LargeDigits" />
-        <item itemvalue="Application.PrefixSearchWord" />
       </list>
     </recent_temporary>
   </component>
@@ -161,7 +148,15 @@
       <option name="project" value="LOCAL" />
       <updated>1720802871360</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="add more thread code">
+      <option name="closed" value="true" />
+      <created>1729175300251</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1729175300251</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -185,6 +180,21 @@
           <url>file://$PROJECT_DIR$/src/MyWork/LeetCode/LargeDigits.java</url>
           <line>4</line>
           <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MyWork/CollectionPluseStram/RomanInteger.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MyWork/LeetCode/LongestCommonPrefix.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MyWork/LeetCode/LongestCommonPrefix.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="18" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
