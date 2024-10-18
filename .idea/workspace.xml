@@ -5,9 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c84ab228-8908-422b-bc0a-a327a5aacc0b" name="Changes" comment="add more thread code">
-      <change afterPath="$PROJECT_DIR$/src/MyWork/CollectionPluseStram/RomanInteger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MyWork/LeetCode/RomanInteger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PatternUseStream/HollowDiamondPattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MyWork/CollectionPluseStram/LengthOfLastWord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MyWork/LeetCode/BinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MyWork/LeetCode/ConvertToTitle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MyWork/LeetCode/ExcelSheetColumnNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MyWork/LeetCode/FindCommonCharacters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MyWork/LeetCode/IsomorphicStrings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MyWork/LeetCode/LengthOfLastWord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MyWork/LeetCode/ReverseString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MyWork/LeetCode/ValidAnagram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MyWork/LeetCode/ValidPalindrome.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/MyWork/LeetCode/LongestCommonPrefix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MyWork/LeetCode/LongestCommonPrefix.java" afterDir="false" />
     </list>
@@ -53,10 +60,16 @@
       <recent name="DataStructure.Recursion" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.LongestCommonPrefix">
-    <configuration name="HollowDiamondPattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HollowDiamondPattern" />
+  <component name="RunManager" selected="Application.ReverseString">
+    <configuration name="ConvertToTitle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MyWork.LeetCode.ConvertToTitle" />
       <module name="recallJavA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="MyWork.LeetCode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -66,19 +79,6 @@
       <module name="recallJavA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="MyWork.LeetCode.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MyWork.CollectionPluseStram.RomanInteger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MyWork.CollectionPluseStram.RomanInteger" />
-      <module name="recallJavA" />
-      <extension name="coverage">
-        <pattern>
           <option name="PATTERN" value="MyWork.CollectionPluseStram.*" />
           <option name="ENABLED" value="true" />
         </pattern>
@@ -87,8 +87,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RomanInteger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MyWork.LeetCode.RomanInteger" />
+    <configuration name="ReverseString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MyWork.LeetCode.ReverseString" />
       <module name="recallJavA" />
       <extension name="coverage">
         <pattern>
@@ -100,12 +100,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TowSome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MyWork.CollectionPluseStram.TowSome" />
+    <configuration name="ValidAnagram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MyWork.LeetCode.ValidAnagram" />
       <module name="recallJavA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="MyWork.CollectionPluseStram.*" />
+          <option name="PATTERN" value="MyWork.LeetCode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ValidPalindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MyWork.LeetCode.ValidPalindrome" />
+      <module name="recallJavA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="MyWork.LeetCode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,11 +128,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ReverseString" />
+        <item itemvalue="Application.ValidAnagram" />
+        <item itemvalue="Application.ConvertToTitle" />
+        <item itemvalue="Application.ValidPalindrome" />
         <item itemvalue="Application.LongestCommonPrefix" />
-        <item itemvalue="Application.HollowDiamondPattern" />
-        <item itemvalue="Application.MyWork.CollectionPluseStram.RomanInteger" />
-        <item itemvalue="Application.RomanInteger" />
-        <item itemvalue="Application.TowSome" />
       </list>
     </recent_temporary>
   </component>
@@ -156,7 +169,15 @@
       <option name="project" value="LOCAL" />
       <updated>1729175300251</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="add more thread code">
+      <option name="closed" value="true" />
+      <created>1729183955198</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1729183955199</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -185,16 +206,6 @@
           <url>file://$PROJECT_DIR$/src/MyWork/CollectionPluseStram/RomanInteger.java</url>
           <line>9</line>
           <option name="timeStamp" value="16" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/MyWork/LeetCode/LongestCommonPrefix.java</url>
-          <line>17</line>
-          <option name="timeStamp" value="17" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/MyWork/LeetCode/LongestCommonPrefix.java</url>
-          <line>12</line>
-          <option name="timeStamp" value="18" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
