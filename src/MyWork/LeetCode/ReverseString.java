@@ -11,7 +11,7 @@ public class ReverseString {
         reverseString(s1);
 
 
-        // Test case 2
+
         char[] s2 = {'H', 'a', 'n', 'n', 'a', 'h'};
         reverseString(s2);
 

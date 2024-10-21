@@ -12,7 +12,7 @@ public class DBConnections {
     }
 
 
-    public  static DBConnections getInstance(){
+    public  static DBConnections getInstance() {
         return conObject;
     }
     public  static DBConnections getLazy(){
