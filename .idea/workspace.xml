@@ -5,12 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c84ab228-8908-422b-bc0a-a327a5aacc0b" name="Changes" comment="add command in my code it is more helpful my coding knowledge">
-      <change afterPath="$PROJECT_DIR$/src/MyWork/LeetCode/ChocolatePurchase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MyWork/LeetCode/FindWordsContainingCharacter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MyWork/LeetCode/MaximumStrongPairXOR.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MyWork/Arrays/MaxProfit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MyWork/Arrays/MergeSortedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MyWork/Arrays/RemoveDuplicates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MyWork/Arrays/RemoveElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MyWork/Arrays/SearchInsertPosition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MyWork/Arrays/TwoSome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MyWork/LeetCode/NextGreaterElement.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MyWork/LeetCode/ReverseStringK.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MyWork/LeetCode/ReverseStringK.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MyWork/LeetCode/ReverseVowels.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MyWork/LeetCode/ReverseVowels.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/singleton/DBConnections.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/singleton/DBConnections.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,13 +57,13 @@
       <recent name="DataStructure.Recursion" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ChocolatePurchase">
-    <configuration name="ChocolatePurchase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MyWork.LeetCode.ChocolatePurchase" />
+  <component name="RunManager" selected="Application.MergeSortedArray">
+    <configuration name="MergeSortedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MyWork.Arrays.MergeSortedArray" />
       <module name="recallJavA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="MyWork.LeetCode.*" />
+          <option name="PATTERN" value="MyWork.Arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -68,12 +71,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LongestPalindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MyWork.LeetCode.LongestPalindrome" />
+    <configuration name="RemoveDuplicates" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MyWork.Arrays.RemoveDuplicates" />
       <module name="recallJavA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="MyWork.LeetCode.*" />
+          <option name="PATTERN" value="MyWork.Arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -81,12 +84,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PalindromeCheck" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MyWork.LeetCode.PalindromeCheck" />
+    <configuration name="RemoveElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MyWork.Arrays.RemoveElement" />
       <module name="recallJavA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="MyWork.LeetCode.*" />
+          <option name="PATTERN" value="MyWork.Arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -94,12 +97,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReverseVowels" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MyWork.LeetCode.ReverseVowels" />
+    <configuration name="SearchInsertPosition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MyWork.Arrays.SearchInsertPosition" />
       <module name="recallJavA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="MyWork.LeetCode.*" />
+          <option name="PATTERN" value="MyWork.Arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,12 +110,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="findRestaurant" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MyWork.LeetCode.findRestaurant" />
+    <configuration name="TwoSome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MyWork.Arrays.TwoSome" />
       <module name="recallJavA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="MyWork.LeetCode.*" />
+          <option name="PATTERN" value="MyWork.Arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,11 +125,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ChocolatePurchase" />
-        <item itemvalue="Application.LongestPalindrome" />
-        <item itemvalue="Application.ReverseVowels" />
-        <item itemvalue="Application.PalindromeCheck" />
-        <item itemvalue="Application.findRestaurant" />
+        <item itemvalue="Application.MergeSortedArray" />
+        <item itemvalue="Application.SearchInsertPosition" />
+        <item itemvalue="Application.RemoveElement" />
+        <item itemvalue="Application.RemoveDuplicates" />
+        <item itemvalue="Application.TwoSome" />
       </list>
     </recent_temporary>
   </component>
@@ -187,7 +190,15 @@
       <option name="project" value="LOCAL" />
       <updated>1729537730852</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="add command in my code it is more helpful my coding knowledge">
+      <option name="closed" value="true" />
+      <created>1729567385532</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1729567385532</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
